@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+pilotos,piloto1.jpg,OK,743,413,224,224,0.0,1.0,APROBADA
+pilotos,piloto2.jpg,OK,2048,1365,224,224,0.004,0.996,APROBADA
+pilotos,piloto3.jpg,OK,554,554,224,224,0.0,1.0,APROBADA
+pilotos,piloto4.jpg,OK,683,1024,224,224,0.0,1.0,APROBADA
+pilotos,piloto5.jpg,OK,1200,675,224,224,0.0,1.0,APROBADA
+astronautas,astronauta1.jpg,OK,1068,858,224,224,0.0,0.992,APROBADA
+astronautas,astronauta2.jpg,OK,640,360,224,224,0.0,0.984,APROBADA
+astronautas,astronauta3.jpg,OK,1280,720,224,224,0.0,0.992,APROBADA
+astronautas,astronauta4.jpg,OK,250,312,224,224,0.0,1.0,APROBADA
+astronautas,astronauta5.jpg,OK,680,451,224,224,0.0,1.0,APROBADA
